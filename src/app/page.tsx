@@ -19,6 +19,7 @@ export default function Home() {
     { name: "Split landing page", route: "/split-landing-page" },
     { name: "Dad jokes", route: "/dad-jokes" },
     { name: "Event keycodes", route: "/event-keycodes" },
+    { name: "Sound board", route: "/sound-board" },
   ];
   return (
     <div className="mt-24 w-[90vw] mx-auto flex flex-col">
