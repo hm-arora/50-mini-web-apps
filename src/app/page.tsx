@@ -22,6 +22,7 @@ export default function Home() {
     { name: "Sound board", route: "/sound-board" },
     { name: "Random choice picker", route: "/random-choice-picker" },
     { name: "FAQ Collapse", route: "/faq-collapse" },
+    { name: "Button Spinner", route: "/button-spinner" },
   ];
   return (
     <div className="mt-24 w-[90vw] mx-auto flex flex-col">
